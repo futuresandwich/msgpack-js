@@ -5,7 +5,7 @@
   "version": "0.3.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/creationix/msgpack-js.git"
+    "url": "git://github.com/futuresandwich/msgpack-js.git"
   },
   "main": "msgpack.js",
   "dependencies": {

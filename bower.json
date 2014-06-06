@@ -1,0 +1,6 @@
+{
+  "name": "msgpack-js",
+  "homepage": "git://github.com/futuresandwich/msgpack-js.git",
+  "version": "0.3.0",
+  "main": ["msgpack.js"]
+}
